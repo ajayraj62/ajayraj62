@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me - LinkedIn ID - https://www.linkedin.com/in/ajay-raj-singh-8300b919b/
+- 📫 How to reach me
 
 <!---
 ajayraj62/ajayraj62 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
